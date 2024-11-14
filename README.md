@@ -38,7 +38,7 @@ The FASTA Redundancy Removal Tool is a GUI-based Python application that allows 
 
 1. **Run the Script**: Start the application by running the Python script.
    ```bash
-   python fasta_redundancy_checker.py
+   python redundancyremoval.py
    ```
 
 2. **Select FASTA File**: Click on "Select FASTA File" to open a file dialog and choose the input FASTA file.
