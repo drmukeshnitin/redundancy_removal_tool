@@ -8,6 +8,9 @@ Here's a README file for your FASTA Redundancy Checker tool:
 
 The FASTA Redundancy Removal Tool is a GUI-based Python application that allows users to remove redundant sequences from a FASTA file, keeping only the longest sequence for each unique ID. This tool is built with `Tkinter` for the graphical interface and `Biopython` for sequence processing. It provides a polished interface with a colorful background, easy file selection, and a downloadable output file.
 
+![Screenshot from 2024-11-15 00-45-23](https://github.com/user-attachments/assets/675f654e-a5db-4171-8d50-115d2fcc7fcc)
+
+
 ## Features
 
 - **Remove Redundant Sequences**: Retains only the longest sequence for each unique ID in the provided FASTA file.
